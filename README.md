@@ -1,6 +1,6 @@
 # AI-MOUSE
 
-This project does XYZ... <!-- Update this line with your project description -->
+This project helps you to control your Pc or laptop just by simply waving your fingers infront of the display.
 
 ## Example Usage
 
